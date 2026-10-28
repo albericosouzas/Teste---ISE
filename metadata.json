@@ -1,0 +1,6 @@
+{
+  "name": "VetConecta NUTRIPET",
+  "description": "Canal de comunicação técnico-científica e suporte especializado para médicos veterinários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
